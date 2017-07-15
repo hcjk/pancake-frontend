@@ -9,10 +9,14 @@
     "start": "webpack-dev-server"
   },
   "dependencies": {
+    "prop-types": "^15.5.10",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-redux": "^5.0.5",
+    "react-router": "3.0.5",
+    "rebass": "^1.0.0-7",
     "redux": "^3.7.2",
+    "redux-logger": "^3.0.6",
     "redux-saga": "^0.15.4",
     "webpack": "2.4.1"
   },
